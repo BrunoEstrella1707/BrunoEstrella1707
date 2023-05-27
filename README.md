@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#
+<a href="https://github.com/BrunoEstrella1707">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoEstrella1707&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/BrunoEstrella1707">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEstrella1707&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+  
+#
+
+
 <!--
 **BrunoEstrella1707/BrunoEstrella1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
